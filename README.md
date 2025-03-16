@@ -1,4 +1,4 @@
-# Ojas Bhagavath
+# [Ojas Bhagavath](https://ojasb.xyz)
 
 ## Experience
 
