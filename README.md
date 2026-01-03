@@ -1,23 +1,3 @@
-# [Ojas Bhagavath](https://ojasb.xyz)
+Hello! Welcome to my GitHub Profile.
 
-## Experience
-
-Jun 2025 - Present; Gandhinagar, India
-
-- **[IIT Gandhinagar](https://iitgn.ac.in/)**
-
-  Junior Research Fellow in the Department of Mathematics.
-
-## Education
-
-Aug 2022 - May 2024; Thiruvananthapuram, India
-
-- **[IISER Thiruvananthapuram](https://iisertvm.ac.in/)**
-
-  M.Sc. in Mathematics.
-
-May 2019 - Sep 2024; Mysore, India
-
-- **[University of Mysore](http://www.uni-mysore.ac.in/english-version/)**
-
-  B.Sc. in Physical Sciences.
+I am **[Ojas Bhagavath](https://ojasb.xyz/)**, a PhD student in Mathematics at the [University of Oklahoma](https://ou.edu/), OK, USA.
