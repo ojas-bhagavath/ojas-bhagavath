@@ -1,6 +1,6 @@
 # Ojas Bhagavath
 
-PhD student in Mathematics at the University of Oklahoma, interested in Algebraic Geometry.
+Math PhD student at the University of Oklahoma, interested in Algebraic Geometry.
 
 ## Education
 
